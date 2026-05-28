@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Outfit', sans-serif;
+  }
+}
+
+/* Glassmorphism custom classes */
+.glass-effect {
+  background: rgba(255, 255, 255, 0.45);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.dark .glass-effect {
+  background: rgba(15, 22, 40, 0.65);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+/* Custom premium scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Custom page borders for all pages except Home */
+.app-page-borders .bg-white.border,
+.app-page-borders .border,
+.app-page-borders .border-gray-50,
+.app-page-borders .border-gray-100,
+.app-page-borders .border-gray-150,
+.app-page-borders .border-gray-200,
+.app-page-borders .border-gray-205,
+.app-page-borders .border-gray-300,
+.app-page-borders .border-gray-200\/60,
+.app-page-borders .border-gray-200\/50,
+.app-page-borders form.border,
+.app-page-borders .group.relative.bg-white,
+.app-page-borders .border-gray-150 {
+  border-color: #1f2937 !important;
+}
+
