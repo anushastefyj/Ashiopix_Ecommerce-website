@@ -1,0 +1,58 @@
+# Dependency directories
+node_modules/
+client/node_modules/
+server/node_modules/
+dist/
+build/
+.env
+
+# Production/Build outputs
+client/build/
+client/dist/
+server/dist/
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+client/.env
+server/.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor configurations
+.vscode/
+*.code-workspace
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary/Cache files
+.npm
+.eslintcache
+.parcel-cache
+.cache/
+.turbo/
