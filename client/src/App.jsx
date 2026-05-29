@@ -56,11 +56,46 @@ export default function App() {
     <Router>
       <MainLayout>
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/products" element={<Products />} />
-          <Route path="/products/:id" element={<ProductDetail />} />
-          <Route path="/cart" element={<Cart />} />
-          <Route path="/about" element={<About />} />
+          <Route
+            path="/"
+            element={
+              <ProtectedRoute>
+                <Home />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/products"
+            element={
+              <ProtectedRoute>
+                <Products />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/products/:id"
+            element={
+              <ProtectedRoute>
+                <ProductDetail />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/cart"
+            element={
+              <ProtectedRoute>
+                <Cart />
+              </ProtectedRoute>
+            }
+          />
+          <Route
+            path="/about"
+            element={
+              <ProtectedRoute>
+                <About />
+              </ProtectedRoute>
+            }
+          />
           <Route
             path="/wishlist"
             element={
