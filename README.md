@@ -5,6 +5,7 @@ Ashiopix is a modern full-stack ecommerce web application developed to provide a
 The website allows users to explore products, view detailed product information, manage shopping cart items, and experience a smooth online purchasing workflow. The application is designed with performance, simplicity, and responsiveness in mind, making it accessible across desktops, tablets, and mobile devices.
 
 ---
+
 ## Live Deployment
 
 live server:
@@ -34,6 +35,7 @@ live server:
 The main objective of Ashiopix is to demonstrate the implementation of a complete ecommerce platform using modern web technologies. The project emphasizes frontend responsiveness, backend API handling, authentication flow, and database integration while maintaining an organized and scalable codebase.
 
 ---
+
 <img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/08479162-f2b7-4c14-bd3d-ad0fb0d61f68" />
 
 
@@ -53,6 +55,6 @@ The main objective of Ashiopix is to demonstrate the implementation of a complet
 
 ## Developed By
 
-**Anusha Stefy**
+**Anusha Stefy J**
 
 Ashiopix reflects creativity, problem-solving, and practical full-stack development skills through the implementation of a real-world ecommerce application.
