@@ -44,8 +44,8 @@ The main objective of Ashiopix is to demonstrate the implementation of a complet
 
 ## Live Deployment
 
-Frontend Website:  
-https://anushastefyj.github.io/Ashiopix_Ecommerce-website/
+live server:
+[https://anushastefyj.github.io/Ashiopix_Ecommerce-website/](https://ashiopix-ecommerce-website-fxlq.vercel.app/)
 
 ---
 
