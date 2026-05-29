@@ -21,18 +21,11 @@ The website allows users to explore products, view detailed product information,
 
 ## Technologies Used
 
-### Frontend
-- React.js
-- HTML5
-- CSS3
-- JavaScript
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/f0d8ce95-dde5-4d2d-b419-b218b9e0e82c" />
 
-### Backend
-- Node.js
-- Express.js
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/08479162-f2b7-4c14-bd3d-ad0fb0d61f68" />
 
-### Database
-- MongoDB
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/6d1cc38d-3e17-407a-9ae9-ecd6925d97bc" />
 
 ---
 
