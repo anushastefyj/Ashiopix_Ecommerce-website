@@ -5,6 +5,12 @@ Ashiopix is a modern full-stack ecommerce web application developed to provide a
 The website allows users to explore products, view detailed product information, manage shopping cart items, and experience a smooth online purchasing workflow. The application is designed with performance, simplicity, and responsiveness in mind, making it accessible across desktops, tablets, and mobile devices.
 
 ---
+## Live Deployment
+
+live server:
+[https://anushastefyj.github.io/Ashiopix_Ecommerce-website/](https://ashiopix-ecommerce-website-fxlq.vercel.app/)
+
+---
 
 ## Features
 
@@ -19,13 +25,7 @@ The website allows users to explore products, view detailed product information,
 
 ---
 
-## Technologies Used
-
 <img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/f0d8ce95-dde5-4d2d-b419-b218b9e0e82c" />
-
-<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/08479162-f2b7-4c14-bd3d-ad0fb0d61f68" />
-
-<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/6d1cc38d-3e17-407a-9ae9-ecd6925d97bc" />
 
 ---
 
@@ -34,13 +34,11 @@ The website allows users to explore products, view detailed product information,
 The main objective of Ashiopix is to demonstrate the implementation of a complete ecommerce platform using modern web technologies. The project emphasizes frontend responsiveness, backend API handling, authentication flow, and database integration while maintaining an organized and scalable codebase.
 
 ---
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/08479162-f2b7-4c14-bd3d-ad0fb0d61f68" />
 
-## Live Deployment
 
-live server:
-[https://anushastefyj.github.io/Ashiopix_Ecommerce-website/](https://ashiopix-ecommerce-website-fxlq.vercel.app/)
+<img width="1916" height="906" alt="image" src="https://github.com/user-attachments/assets/6d1cc38d-3e17-407a-9ae9-ecd6925d97bc" />
 
----
 
 ## Future Enhancements
 
